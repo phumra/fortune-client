@@ -7,7 +7,7 @@ function Zodiac() {
     <UserLayout>
       <div>
         <h1 className="text-white text-4xl text-center mb-3">ดวงราศี</h1>
-        <h5 className="text-white text-center mb-4">พยากรณ์ระหว่างวันที่ 15-21 ก.ย. 2567</h5>
+        <h5 className="text-white text-center mb-4">พยากรณ์ 2567</h5>
         <div className="p-1 flex flex-wrap items-center justify-center">
           <Link to="/zodiacHroscope?sign=CAPRICORNUS" className="flex-shrink-0 m-6 relative overflow-hidden bg-white rounded-lg max-w-xs shadow-lg">
             <div className="relative pt-10 px-10 flex items-center justify-center">
@@ -16,7 +16,6 @@ function Zodiac() {
             <div className="relative text-[#010030] px-6 pb-6 mt-6">
               <span className="block opacity-75 text-xl font-semibold text-center">ราศีมังกร</span>
               <div className="flex justify-center items-center">
-                <span className="block -mb-1">22 ธ.ค. - 20 ม.ค.</span>
               </div>
             </div>
           </Link>
@@ -28,7 +27,7 @@ function Zodiac() {
             <div className="relative text-[#010030] px-6 pb-6 mt-6">
               <span className="block opacity-75 text-xl font-semibold text-center">ราศีกุมภ์</span>
               <div className="flex justify-center items-center">
-                <span className="block -mb-1 ">21 ม.ค. – 19 ก.พ.</span>
+
               </div>
             </div>
           </Link>
@@ -40,7 +39,7 @@ function Zodiac() {
             <div className="relative text-[#010030] px-6 pb-6 mt-6">
               <span className="block opacity-75 text-xl font-semibold text-center">ราศีมีน</span>
               <div className="flex justify-center items-center">
-                <span className="block -mb-1 ">20 ก.พ. – 20 มี.ค.</span>
+  
               </div>
             </div>
           </Link>
@@ -52,7 +51,7 @@ function Zodiac() {
             <div className="relative text-[#010030] px-6 pb-6 mt-6">
               <span className="block opacity-75 text-xl font-semibold text-center">ราศีเมษ</span>
               <div className="flex justify-center items-center">
-                <span className="block -mb-1 ">21 มี.ค. – 20 เม.ย.</span>
+    
               </div>
             </div>
           </Link>
@@ -64,7 +63,7 @@ function Zodiac() {
             <div className="relative text-[#010030] px-6 pb-6 mt-6">
               <span className="block opacity-75 text-xl font-semibold text-center">ราศีพฤษภ</span>
               <div className="flex justify-center items-center">
-                <span className="block -mb-1 ">21 เม.ย. – 20 พ.ค.</span>
+  
               </div>
             </div>
           </Link>
@@ -76,7 +75,7 @@ function Zodiac() {
             <div className="relative text-[#010030] px-6 pb-6 mt-6">
               <span className="block opacity-75 text-xl font-semibold text-center">ราศีเมถุน</span>
               <div className="flex justify-center items-center">
-                <span className="block -mb-1 ">21 พ.ค. – 21 มิ.ย.</span>
+  
               </div>
             </div>
           </Link>
@@ -88,7 +87,7 @@ function Zodiac() {
             <div className="relative text-[#010030] px-6 pb-6 mt-6">
               <span className="block opacity-75 text-xl font-semibold text-center">ราศีกรกฎ</span>
               <div className="flex justify-center items-center">
-                <span className="block -mb-1 ">22 มิ.ย. – 23 ก.ค.</span>
+  
               </div>
             </div>
           </Link>
@@ -100,7 +99,6 @@ function Zodiac() {
             <div className="relative text-[#010030] px-6 pb-6 mt-6">
               <span className="block opacity-75 text-xl font-semibold text-center">ราศีสิงห์</span>
               <div className="flex justify-center items-center">
-                <span className="block -mb-1 ">24 ก.ค. – 23 ส.ค</span>
               </div>
             </div>
           </Link>
@@ -112,7 +110,7 @@ function Zodiac() {
             <div className="relative text-[#010030] px-6 pb-6 mt-6">
               <span className="block opacity-75 text-xl font-semibold text-center">ราศีกันย์</span>
               <div className="flex justify-center items-center">
-                <span className="block -mb-1 ">24 ส.ค. – 23 ก.ย.</span>
+
               </div>
             </div>
           </Link>
@@ -124,7 +122,7 @@ function Zodiac() {
             <div className="relative text-[#010030] px-6 pb-6 mt-6">
               <span className="block opacity-75 text-xl font-semibold text-center">ราศีตุลย์</span>
               <div className="flex justify-center items-center">
-                <span className="block -mb-1 ">24 ก.ย. – 23 ต.ค.</span>
+
               </div>
             </div>
           </Link>
@@ -136,7 +134,7 @@ function Zodiac() {
             <div className="relative text-[#010030] px-6 pb-6 mt-6">
               <span className="block opacity-75 text-xl font-semibold text-center">ราศีพิจิก</span>
               <div className="flex justify-center items-center">
-                <span className="block -mb-1 ">24 ต.ค. – 22 พ.ย.</span>
+
               </div>
             </div>
           </Link>
@@ -148,7 +146,7 @@ function Zodiac() {
             <div className="relative text-[#010030] px-6 pb-6 mt-6">
               <span className="block opacity-75 text-xl font-semibold text-center">ราศีธนู</span>
               <div className="flex justify-center items-center">
-                <span className="block -mb-1 ">23 พ.ย. – 21 ธ.ค.</span>
+
               </div>
             </div>
           </Link>
