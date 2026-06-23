@@ -1,1 +1,1 @@
-export const hostname = 'https://fortune-server-6ua3.onrender.com'
+export const hostname = import.meta.env.VITE_HOST_URI
