@@ -1,1 +1,1 @@
-export const hostname = import.meta.env.VITE_HOST_URI
+export const hostname = import.meta.env.HOST_URI
